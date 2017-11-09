@@ -2,16 +2,16 @@
 Simple image classifier created using Keras framework
 
 To properly use this program, you have to create a folder structure as follows:
-main_folder/
---images/
-----training_set/
-------img_23278
-------img_4745
-      ...
---label (1).csv
---preprocess.py
---train.py
---test.py
+|--main_folder
+| |--images
+| |--training_set
+| | |--img_23278
+| | |--img_4745
+| | |--...
+| |--label (1).csv
+| |--preprocess.py
+| |--train.py
+| |--test.py
 
 the training_set folder has to contain all the images given with the challenge. The first step is to run
 the file preprocess.py
