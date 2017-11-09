@@ -1,5 +1,5 @@
 # keras-image-classifier
-Simple image classifier created using Keras framework
+Simple image classifier for race and ethnicity dataset created using Keras framework.
 
 To properly use this program, you have to create a folder structure as follows:
 
