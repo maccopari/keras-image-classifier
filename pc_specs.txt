@@ -1,0 +1,2 @@
+All test were run on my personal desktop pc, assembled with a quad core intel i7 4th gen CPU and a MSI GTX 970 GPU. The system also has 16 GB of RAM running at 2400MHz and a SSD of 256 GB.
+A full training required around 16 hours, reaching a top validation accuracy of 74%.
